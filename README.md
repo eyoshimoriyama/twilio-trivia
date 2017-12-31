@@ -12,5 +12,5 @@ In order to run your own version of the app and add more functionality, you'll n
 
 You can create a free Twilio account to get your `twilio_account_sid` and `twilio_auth_token`and setup a new phone number. You can sign up here: https://www.twilio.com/try-twilio.
 
-This app also uses a free trivia API called opentdb.com. You can simply make a request and specify the number of questions you want. You can also specify other paramters such as category and difficulty. For more information see here: https://opentdb.com/api_config.php
+This app also uses a free trivia API called opentdb.com. You can simply make a request and specify the number of questions you want. You can also specify other paramters such as category and difficulty. For more information see here: https://opentdb.com/api_config.php.
 
