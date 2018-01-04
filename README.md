@@ -1,4 +1,4 @@
-# twilio-trivia
+# Twilio Trivia
 
 This repository contains a Flask app that uses a Twilio phone number to send trivia questions and check answers based on the user reply.
 
